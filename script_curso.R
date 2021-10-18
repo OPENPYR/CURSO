@@ -22,3 +22,5 @@ Anova(modelo)
 
 
 #una anotación
+
+# modificación numero 1 LMG

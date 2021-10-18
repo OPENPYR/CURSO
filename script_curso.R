@@ -26,3 +26,6 @@ Anova(modelo)
 #GRaficos predicciones
 
 library(visreg)
+library(ggplot2)
+
+

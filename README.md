@@ -1,2 +1,2 @@
 # CURSO
-estamos provando
+estamos probando

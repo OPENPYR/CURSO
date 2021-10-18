@@ -21,8 +21,6 @@ modelo<-glmer(EstrofX ~ Poblacion + (1|Individuo), family = gaussian(), data= da
 Anova(modelo)
 
 
-#una anotación
-
 #GRaficos predicciones
 
 library(visreg)

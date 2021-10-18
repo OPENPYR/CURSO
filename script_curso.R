@@ -23,4 +23,6 @@ Anova(modelo)
 
 #una anotación
 
-# modificación numero 1 LMG
+#GRaficos predicciones
+
+library(visreg)
